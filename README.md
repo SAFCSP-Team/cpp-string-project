@@ -15,6 +15,8 @@ The purpose of this project is to validate your knowledge of string in C++.
 **Problem**
 Declare two variables: one of type `string` and another of type `char[]`. Assign a value to each variable and print them to the console.
 
+> char[] is an array of char.
+
 The value of the `string` and `char[]` should be your name.
 
 **Implementation**
