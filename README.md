@@ -1,7 +1,8 @@
 # String
 
-**Objective**
-The purpose of this project is to validate your knowledge of string in C++.
+### Objective
+
+The purpose of this project is to validate your knowledge of strings in C++.
 
 
 **Concepts**
@@ -12,14 +13,14 @@ The purpose of this project is to validate your knowledge of string in C++.
 
 
 
-**Problem**
+### Problem
 Declare two variables: one of type `string` and another of type `char[]`. Assign a value to each variable and print them to the console.
 
-> char[] is an array of char.
+> Note: char[] is a C-style character array, which is an array of type char.
 
 The value of the `string` and `char[]` should be your name.
 
-**Implementation**
+### Implementation
 
 ```cpp
 
