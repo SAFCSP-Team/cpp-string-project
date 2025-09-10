@@ -14,7 +14,9 @@ The purpose of this project is to validate your knowledge of strings in C++.
 
 
 ### Problem
-Declare two variables: one of type `string` and another of type `char[]`. Assign a value to each variable and print them to the console.
+Declare two variables:
+- One of type `string` and another of type `char[]`.
+- Assign a value to each variable and print them to the console.
 
 > Note: char[] is a C-style character array, which is an array of type char.
 
